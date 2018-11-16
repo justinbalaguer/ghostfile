@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ghost File v1.0 BETA", "Ghost File v1.0 BETA\Ghost File v1.0 BETA.csproj", "{252EBF14-C669-4F8D-BB9E-71F179B8BA26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{252EBF14-C669-4F8D-BB9E-71F179B8BA26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{252EBF14-C669-4F8D-BB9E-71F179B8BA26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{252EBF14-C669-4F8D-BB9E-71F179B8BA26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{252EBF14-C669-4F8D-BB9E-71F179B8BA26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFE90D73-D670-4483-905C-FFE2BC460A57}
+	EndGlobalSection
+EndGlobal

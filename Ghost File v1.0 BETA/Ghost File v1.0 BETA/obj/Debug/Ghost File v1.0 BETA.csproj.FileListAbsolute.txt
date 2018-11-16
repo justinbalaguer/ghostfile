@@ -1,0 +1,16 @@
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\Ghost File v1.0 BETA\Ghost File v1.0 BETA\bin\Debug\Ghost File v1.0 BETA.exe.config
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\Ghost File v1.0 BETA\Ghost File v1.0 BETA\bin\Debug\Ghost File v1.0 BETA.exe
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\Ghost File v1.0 BETA\Ghost File v1.0 BETA\bin\Debug\Ghost File v1.0 BETA.pdb
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\Ghost File v1.0 BETA\Ghost File v1.0 BETA\obj\Debug\Ghost_File_v1._0_BETA.Main.resources
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\Ghost File v1.0 BETA\Ghost File v1.0 BETA\obj\Debug\Ghost_File_v1._0_BETA.Password.resources
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\Ghost File v1.0 BETA\Ghost File v1.0 BETA\obj\Debug\Ghost_File_v1._0_BETA.Setup.resources
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\Ghost File v1.0 BETA\Ghost File v1.0 BETA\obj\Debug\Ghost_File_v1._0_BETA.SplashScreen.resources
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\Ghost File v1.0 BETA\Ghost File v1.0 BETA\obj\Debug\Ghost_File_v1._0_BETA.Properties.Resources.resources
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\Ghost File v1.0 BETA\Ghost File v1.0 BETA\obj\Debug\Ghost File v1.0 BETA.csproj.GenerateResource.cache
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\Ghost File v1.0 BETA\Ghost File v1.0 BETA\obj\Debug\Ghost File v1.0 BETA.csproj.CoreCompileInputs.cache
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\Ghost File v1.0 BETA\Ghost File v1.0 BETA\obj\Debug\Ghost File v1.0 BETA.exe
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\Ghost File v1.0 BETA\Ghost File v1.0 BETA\obj\Debug\Ghost File v1.0 BETA.pdb
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\Ghost File v1.0 BETA\Ghost File v1.0 BETA\bin\Debug\Ghost File v1.0 BETA.exe.manifest
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\Ghost File v1.0 BETA\Ghost File v1.0 BETA\bin\Debug\Ghost File v1.0 BETA.application
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\Ghost File v1.0 BETA\Ghost File v1.0 BETA\obj\Debug\Ghost File v1.0 BETA.exe.manifest
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\Ghost File v1.0 BETA\Ghost File v1.0 BETA\obj\Debug\Ghost File v1.0 BETA.application
